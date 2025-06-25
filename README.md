@@ -1,4 +1,4 @@
-#🛒 Amazon Clone Website
+#🛒 Amazon Clone Website <br>
 A front-end clone of the Amazon homepage built using HTML and CSS. This project focuses on replicating the core layout and styling of Amazon’s user interface, including the header, search bar, navigation, and product sections.
 <br>
 🔧 Technologies Used
